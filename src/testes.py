@@ -1,4 +1,4 @@
-import jogodavelha.py
+import jogodavelha
 import sys
 
 erroInicializar = False
